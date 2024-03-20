@@ -1,2 +1,2 @@
 # recetas
-recetas de cocina
+recetas de cocina.
